@@ -1,1 +1,3 @@
 .venv
+mylib/__pycaache__
+unittests/__pycache__
